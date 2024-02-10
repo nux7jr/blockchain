@@ -69,3 +69,4 @@ console.log('Blockchain valid? ' + myBlockchain.isChainValid());
 myBlockchain.chain[1].data = { amount: 100 };
 
 console.log('Blockchain valid? ' + myBlockchain.isChainValid());
+1
