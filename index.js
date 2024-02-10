@@ -72,3 +72,4 @@ console.log('Blockchain valid? ' + myBlockchain.isChainValid());
 1
 2
 3
+console.log("IST WORK")
